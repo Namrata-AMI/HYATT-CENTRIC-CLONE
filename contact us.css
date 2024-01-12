@@ -1,0 +1,68 @@
+     body{
+         background-repeat: no-repeat;
+         background-attachment: inherit;
+         align-content: normal;
+         margin:0.5rem;
+      }
+
+        .aa{
+            FONT-SIze:40px;
+            color:grey;
+            text-align:left;
+        }
+
+        .BB{
+           text-align: center;
+           font-size: 60PX;
+           color:cadetblue;
+           font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+        }
+
+        .vA{
+            text-align: center;
+            font-size: 30PX;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            opacity: 0.8;
+        }
+
+        #ee{
+         color:chocolate;
+         font-size: 20px;
+         opacity:0.8;
+        }
+
+        .we{
+         align-content: left;
+         margin:0;
+        }
+
+
+      H3{
+        background-color: burlywood;
+      }
+    
+      .area{
+        display:flex;
+      }
+
+      .area textarea{
+        width:70rem;
+        height: 10rem;
+        border:1px solid black;
+        font-size:1rem;
+        font-weight:500;
+        color:#474747;
+        
+      }
+
+      .area button{
+        width:6rem;
+        font-size: 1rem;
+        color:azure;
+        background-color:#474747;
+        border:2px solid black;
+        border-radius: 10px;
+        margin-left:1rem;
+        margin-top:8rem;
+        font-weight: 700;
+      }

@@ -1,0 +1,54 @@
+<html>
+<head>
+    <title>
+         sign in form
+    </title>
+    <LINK REL="STYLESHEET" HREF="SIGN-IN.CSS">
+</head>
+<body background="Untitled design.png">    
+
+    
+    <IMG src="W.jpg" width="800PX" height="500PX" ALIGN="LEFT">
+<form name="myform" class="aa" method="post" onsubmit="myfun()">
+    YOUR NAME:<BR>
+<input type="text" placeholder="YOUR NAME" name="name" class="bb"> <br><br>
+PHONE NO.<BR>
+<input type="number" PLACEHOLDER="PHONE NO." name="phone" class="cc"> <br><br>
+E-MAIL<BR>
+<input type="email" placeholder="e-mail" name="email" class="dd"> <br><br>
+PASSWORD<BR>
+<input type="password" placeholder="password" name="password" class="ee"><br><br>
+<INPUT TYPE="submit" NAME="SUBMIT" VALUE="SUBMIT" CLASS="FF"> 
+<input type="RESET" NAME="RESET"  VALUE="RESET" CLASS="GG">
+</form>
+
+<script>
+function myfun(){
+    var name=document.myform.name.value;
+    var password=document.myform.password.value;
+    var phone=document.myform.phone.value;
+    var email=document.myform.email.value;
+
+    if(name==null||name==""){
+        alert("fill your name");
+        return false;
+    }
+    else if(password==null|| password==""){
+        alert("enter password");
+        return false;
+    }
+    else if(phone==null||phone==""){
+        alert("enter your phone no.");
+        return false;
+    }
+    else if(email==null||email==""){
+        alert("enter yor email id");
+        return false;
+    }
+    alert("welcome to hyatt centric");
+}
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+BODY{
+    BORDER:2PX SOLID rgb(27, 24, 24);
+    BORDER-RADIUS:5PX;
+
+}
+
+IMG{
+    BORDER:3PX GROOVE BROWN;
+    opacity: 0.6;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+.aa{
+    color:cadetblue;
+    font-size: 20px;
+    text-align: justify;
+    PADDING:42PX;
+    border-left: 5PX GROOVE goldenrod;
+    border-top: 5PX GROOVE goldenrod;
+    BORDER-RIGHT:5px groove rgb(12, 87, 68);
+    border-bottom:5px groove rgb(12, 87, 68);
+    margin-left:865px;
+    margin-right:100px;
+    margin-top: 50px;
+    background-color:black;
+}
+
+.bb{
+
+    border-bottom: 3px groove palevioletred;
+    font-size: 15px;
+    color:black;
+    PADDING:10PX;
+}
+
+.cc{
+    border-bottom: 3px groove palevioletred;
+    font-size: 15px;
+    color:black;
+    PADDING:10PX;
+}
+
+.dd{
+    
+    border-bottom: 3px groove palevioletred;
+    font-size: 15px;
+    color:black;
+    PADDING:10PX;
+}
+
+.ee{
+
+    border-bottom: 3px groove palevioletred;
+    font-size: 15px;
+    color:black;
+    PADDING:10PX;
+}
+
+.FF{
+    border: 3px groove rgb(128, 97, 107);
+    font-size: 10px;
+    color:black;
+    PADDING:10PX;
+}
+
+.GG{
+    border: 3px groove rgb(109, 82, 91);
+    font-size: 10px;
+    color:black;
+    PADDING: 10PX;
+}

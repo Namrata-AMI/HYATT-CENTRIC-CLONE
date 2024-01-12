@@ -1,0 +1,104 @@
+body{
+    background-color:WHITE(179, 157, 157);
+
+}
+
+IMG{
+    width: 1350PX;
+    background-attachment: inherit;
+}
+
+.w3-container{
+    MARGIN:15PX;
+    margin-left:10px;
+}
+
+.CARD{
+    box-shadow:15PX 4PX 8PX 0; rgb(0,0,0,0.4);
+    WIDTH:40%;
+    transition: 0.4S;
+    border-radius: 5PX DASHED RED;
+    background-color: RED;
+    margin-top:-95px;
+}
+
+h1{
+    font-size:100px;
+    margin:0px;
+    color:red;
+}
+
+H2{
+font-size: 80PX;
+COLOR:BLACK;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bolder;
+MARGIN-top:200PX;
+}
+
+H2:HOVER{
+COLOR:RED;
+}
+
+H3{
+text-align:right;
+margin-top: -420px;
+font-size: xx-large;
+margin-right:35px;
+color:darkred;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+div{
+text-align: justify;
+margin-top: 100px;
+font-size:17px;
+font-weight: 100;
+color:darkslategrey;
+PADDING:-10PX;
+MARGIN:40PX;
+}
+
+.BB{
+box-shadow:15PX 4PX 8PX 0px; RGB(0,0,0,0.4);
+    WIDTH:40%;
+    transition: 0.4S;
+    border-radius: 5PX DASHED RED;
+    background-color: RED;
+    MARGIN-TOP:90PX;
+}
+
+.BB:HOVER{
+COLOR:rgb(123, 255, 0);    
+background-color:cornflowerblue;
+}
+
+H4{
+
+font-size: 60PX;
+COLOR:BLACK;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bolder;
+MARGIN-top:300PX;
+MARGIN-BOTTOM:-5PX;
+}
+
+.CC{
+MARGIN-RIGHT:10PX;
+MARGIN:30PX;
+}
+
+H5{
+Text-align:LEFT;
+margin-top: 80px;
+font-size:30PX;
+margin-right:15px;
+MARGIN-LEFT:15PX;
+color:darkred;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} 
+
+IMG{
+border-radius:20PX;
+BORDER:5PX GROOVE BLACK;
+}
